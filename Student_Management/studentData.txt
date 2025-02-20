@@ -1,0 +1,3 @@
+71,Ritun Raj,8.5,ritun@gmail.com
+100,Susmita Sharma,8.4,sus@gmail.com
+68,Rajdeep Kumar,7.8,raj@gmail.com
